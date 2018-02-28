@@ -36,6 +36,9 @@ El archivo esta dividido en 3 columnas.
 1. Posicion de memoria
 2. descriptor
 	2.0 Las entradas cuyos descriptores estan en minuscula solo pueden ser llamados por funciones internas (locales).
+	U: undefine
+	T: texto, una funcion.
+	Mayuscula: se puede ver desde afuera.
 En esta altura el objeto esta en binario pero aun no se pude ejecutar.
 
 3. Entrada. es el nombre de la funcion o variable.
